@@ -65,6 +65,6 @@
 -   È recomendado que voçê ultilize o navegador Google Chrome ou Microsoft Edge
 
 
-  ##Vídeo de demonstração do sistema:
+  ## 📹Vídeo de demonstração do sistema:
   [Veja o vídeo de demonstração](https://youtu.be/TBt6Fek6PjM?si=UcIT_jQhahJn1SEW)
 
