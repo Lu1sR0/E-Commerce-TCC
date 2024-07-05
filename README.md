@@ -59,7 +59,7 @@
  **Antes de tudo você precisa ter instalado na sua máquina**
 - [MySql WorkBench](https://dev.mysql.com/downloads/installer/)
 - [Visual Studio Code](https://www.npmjs.com/)
-- baixei o banco de dados e execute ele para poder finalmente rodar o projeto
+- baixe o banco de dados e execute ele para poder finalmente rodar o projeto
 
 **Recomendações**
 -   È recomendado que voçê ultilize o navegador Google Chrome ou Microsoft Edge
